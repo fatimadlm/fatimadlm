@@ -1,10 +1,11 @@
-![fatimadlm](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+![fatimadlm](https://github.com/TUUSUARIO/TUREPO/raw/main/fatimadlmAnimated.svg)
 
 <p align="center">
+Una desarrolladora de software que ama crear herramientas, diseño, tipografía y música.<br>
 <br>
-<a href="https://1a23.com">Portfolio Site</a>
- · <a href="https://blog.1a23.com">Blog</a>
- · <a href="https://twitter.com/blueset">Twitter</a>
+<a href="https://tusitio.com">Portfolio</a>
+ · <a href="https://tublog.com">Blog</a>
+ · <a href="https://twitter.com/fatimadlm">Twitter</a>
 <br>
 <br>
 <br>
@@ -14,4 +15,4 @@
 -----
 Credits: [Eana Hufwe](https://github.com/blueset)
 
-Last Edited on: 25/11/2020
+Last Edited on: 29/08/2025
